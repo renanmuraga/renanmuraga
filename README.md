@@ -2,7 +2,7 @@
 
 
 # Hello, my name is RENAN MURAGA
-> I have 14 years working in the IT area, and I am currently learning Cloud and DevOps through my MBA.
+> I have 14 years working in the IT area (Storage Backup), and I am currently learning Cloud and DevOps through my MBA.
 - 🔭 I’m currently working on ...
 - 📫 How to reach me: 
 
