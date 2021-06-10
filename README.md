@@ -13,8 +13,9 @@
 - ⚡Vagrant
 - ⚡Ansible
 
-## Screenshots
 <!--
+## Screenshots
+
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
